@@ -1,0 +1,17 @@
+{
+  "name": "qa-assessment-joymugao",
+  "version": "1.0.0",
+  "main": "react_unit_test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+  
+
+}
